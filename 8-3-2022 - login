@@ -10,3 +10,7 @@ response -----
  all user data,
  token
 ]
+
+
+api login by facebook,
+api login by google,
